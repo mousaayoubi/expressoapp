@@ -17,6 +17,7 @@
     "http-proxy-middleware": "^0.20.0",
     "mocha": "^6.2.2",
     "morgan": "^1.9.1",
+    "now": "^16.7.3",
     "path": "^0.12.7",
     "react": "^15.6.2",
     "react-dom": "^15.6.2",
