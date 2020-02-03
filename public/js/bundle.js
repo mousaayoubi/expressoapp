@@ -7864,7 +7864,7 @@ __webpack_require__(231);
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 var Expresso = {};
-var baseUrl = 'https://expresso.now.sh/api';
+var baseUrl = 'https://expressoapp.now.sh/api';
 
 Expresso.getEmployees = function () {
   var url = baseUrl + '/employees';
